@@ -1,9 +1,7 @@
 # CustomListView
 Custom list view -programmatically add the lsit data
 
-
-![screenshot_1486485975](https://cloud.githubusercontent.com/assets/12602212/22701257/313e1d10-ed83-11e6-83b8-ba05dce137bf.png)
-
+<img width="292" alt="3" src="https://cloud.githubusercontent.com/assets/12602212/22701257/313e1d10-ed83-11e6-83b8-ba05dce137bf.png">
 #License
 
 Copyright 2017 Som Shubham Sahoo
